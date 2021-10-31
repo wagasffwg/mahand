@@ -1,0 +1,8 @@
+var year = new Date().getFullYear();
+var day = new Date().getDay()
+var month = new Date().getMonth()
+var date = new Date().getDate()
+
+var weekdays = [ "sun" , "mon" , "tue", "wed", "thu" , "fri" , "sat" ]
+
+var months = ["Jan" , "Feb" , "Mar" , "Apr" , "May" , "Jun" , "Jul" , "Aug" , "Sept" , "Oct" ,"Nov" , "Dec" ]
